@@ -18,3 +18,13 @@ C:\Users\stubu_000\Desktop\BCIT CST\BCIT CST\Term 4 CST Full-Time\Test\StuTest\D
 C:\Users\stubu_000\Desktop\BCIT CST\BCIT CST\Term 4 CST Full-Time\Test\StuTest\DenisLoadTextBox\obj\Debug\DenisLoadTextBox.Form2.resources
 C:\Users\stubu_000\Desktop\BCIT CST\BCIT CST\Term 4 CST Full-Time\Test\StuTest\DenisLoadTextBox\obj\Debug\DenisLoadTextBox.Properties.Resources.resources
 C:\Users\stubu_000\Desktop\BCIT CST\BCIT CST\Term 4 CST Full-Time\Test\StuTest\DenisLoadTextBox\obj\Debug\DenisLoadTextBox.csproj.GenerateResource.Cache
+C:\Users\Nina\Documents\Visual Studio 2013\Projects\01KidsTutoring\DenisLoadTextBox\DenisLoadTextBox\bin\Debug\DenisLoadTextBox.exe.config
+C:\Users\Nina\Documents\Visual Studio 2013\Projects\01KidsTutoring\DenisLoadTextBox\DenisLoadTextBox\obj\Debug\DenisLoadTextBox.exe
+C:\Users\Nina\Documents\Visual Studio 2013\Projects\01KidsTutoring\DenisLoadTextBox\DenisLoadTextBox\obj\Debug\DenisLoadTextBox.pdb
+C:\Users\Nina\Documents\Visual Studio 2013\Projects\01KidsTutoring\DenisLoadTextBox\DenisLoadTextBox\bin\Debug\DenisLoadTextBox.exe
+C:\Users\Nina\Documents\Visual Studio 2013\Projects\01KidsTutoring\DenisLoadTextBox\DenisLoadTextBox\bin\Debug\DenisLoadTextBox.pdb
+C:\Users\Nina\Documents\Visual Studio 2013\Projects\01KidsTutoring\DenisLoadTextBox\DenisLoadTextBox\obj\Debug\DenisLoadTextBox.csprojResolveAssemblyReference.cache
+C:\Users\Nina\Documents\Visual Studio 2013\Projects\01KidsTutoring\DenisLoadTextBox\DenisLoadTextBox\obj\Debug\DenisLoadTextBox.Form1.resources
+C:\Users\Nina\Documents\Visual Studio 2013\Projects\01KidsTutoring\DenisLoadTextBox\DenisLoadTextBox\obj\Debug\DenisLoadTextBox.Form2.resources
+C:\Users\Nina\Documents\Visual Studio 2013\Projects\01KidsTutoring\DenisLoadTextBox\DenisLoadTextBox\obj\Debug\DenisLoadTextBox.Properties.Resources.resources
+C:\Users\Nina\Documents\Visual Studio 2013\Projects\01KidsTutoring\DenisLoadTextBox\DenisLoadTextBox\obj\Debug\DenisLoadTextBox.csproj.GenerateResource.Cache
