@@ -1,0 +1,10 @@
+c:\users\nina\documents\visual studio 2013\Projects\DenisLoadTextBox\DenisLoadTextBox\bin\Debug\DenisLoadTextBox.exe.config
+c:\users\nina\documents\visual studio 2013\Projects\DenisLoadTextBox\DenisLoadTextBox\obj\Debug\DenisLoadTextBox.csprojResolveAssemblyReference.cache
+c:\users\nina\documents\visual studio 2013\Projects\DenisLoadTextBox\DenisLoadTextBox\obj\Debug\DenisLoadTextBox.Properties.Resources.resources
+c:\users\nina\documents\visual studio 2013\Projects\DenisLoadTextBox\DenisLoadTextBox\obj\Debug\DenisLoadTextBox.csproj.GenerateResource.Cache
+c:\users\nina\documents\visual studio 2013\Projects\DenisLoadTextBox\DenisLoadTextBox\bin\Debug\DenisLoadTextBox.exe
+c:\users\nina\documents\visual studio 2013\Projects\DenisLoadTextBox\DenisLoadTextBox\bin\Debug\DenisLoadTextBox.pdb
+c:\users\nina\documents\visual studio 2013\Projects\DenisLoadTextBox\DenisLoadTextBox\obj\Debug\DenisLoadTextBox.exe
+c:\users\nina\documents\visual studio 2013\Projects\DenisLoadTextBox\DenisLoadTextBox\obj\Debug\DenisLoadTextBox.pdb
+c:\users\nina\documents\visual studio 2013\Projects\DenisLoadTextBox\DenisLoadTextBox\obj\Debug\DenisLoadTextBox.Form1.resources
+c:\users\nina\documents\visual studio 2013\Projects\DenisLoadTextBox\DenisLoadTextBox\obj\Debug\DenisLoadTextBox.Form2.resources

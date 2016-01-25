@@ -1,0 +1,9 @@
+C:\Users\Nina\Documents\Visual Studio 2013\Projects\01KidsTutoring\DenisLoadTextBox\DenisLoadTextBox\bin\Release\DenisLoadTextBox.exe.config
+C:\Users\Nina\Documents\Visual Studio 2013\Projects\01KidsTutoring\DenisLoadTextBox\DenisLoadTextBox\bin\Release\DenisLoadTextBox.exe
+C:\Users\Nina\Documents\Visual Studio 2013\Projects\01KidsTutoring\DenisLoadTextBox\DenisLoadTextBox\bin\Release\DenisLoadTextBox.pdb
+C:\Users\Nina\Documents\Visual Studio 2013\Projects\01KidsTutoring\DenisLoadTextBox\DenisLoadTextBox\obj\Release\DenisLoadTextBox.Form1.resources
+C:\Users\Nina\Documents\Visual Studio 2013\Projects\01KidsTutoring\DenisLoadTextBox\DenisLoadTextBox\obj\Release\DenisLoadTextBox.Form2.resources
+C:\Users\Nina\Documents\Visual Studio 2013\Projects\01KidsTutoring\DenisLoadTextBox\DenisLoadTextBox\obj\Release\DenisLoadTextBox.Properties.Resources.resources
+C:\Users\Nina\Documents\Visual Studio 2013\Projects\01KidsTutoring\DenisLoadTextBox\DenisLoadTextBox\obj\Release\DenisLoadTextBox.csproj.GenerateResource.Cache
+C:\Users\Nina\Documents\Visual Studio 2013\Projects\01KidsTutoring\DenisLoadTextBox\DenisLoadTextBox\obj\Release\DenisLoadTextBox.exe
+C:\Users\Nina\Documents\Visual Studio 2013\Projects\01KidsTutoring\DenisLoadTextBox\DenisLoadTextBox\obj\Release\DenisLoadTextBox.pdb
