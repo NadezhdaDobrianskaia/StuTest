@@ -8,3 +8,13 @@ c:\users\nina\documents\visual studio 2013\Projects\DenisLoadTextBox\DenisLoadTe
 c:\users\nina\documents\visual studio 2013\Projects\DenisLoadTextBox\DenisLoadTextBox\obj\Debug\DenisLoadTextBox.pdb
 c:\users\nina\documents\visual studio 2013\Projects\DenisLoadTextBox\DenisLoadTextBox\obj\Debug\DenisLoadTextBox.Form1.resources
 c:\users\nina\documents\visual studio 2013\Projects\DenisLoadTextBox\DenisLoadTextBox\obj\Debug\DenisLoadTextBox.Form2.resources
+C:\Users\stubu_000\Desktop\BCIT CST\BCIT CST\Term 4 CST Full-Time\Test\StuTest\DenisLoadTextBox\bin\Debug\DenisLoadTextBox.exe.config
+C:\Users\stubu_000\Desktop\BCIT CST\BCIT CST\Term 4 CST Full-Time\Test\StuTest\DenisLoadTextBox\obj\Debug\DenisLoadTextBox.exe
+C:\Users\stubu_000\Desktop\BCIT CST\BCIT CST\Term 4 CST Full-Time\Test\StuTest\DenisLoadTextBox\obj\Debug\DenisLoadTextBox.pdb
+C:\Users\stubu_000\Desktop\BCIT CST\BCIT CST\Term 4 CST Full-Time\Test\StuTest\DenisLoadTextBox\bin\Debug\DenisLoadTextBox.exe
+C:\Users\stubu_000\Desktop\BCIT CST\BCIT CST\Term 4 CST Full-Time\Test\StuTest\DenisLoadTextBox\bin\Debug\DenisLoadTextBox.pdb
+C:\Users\stubu_000\Desktop\BCIT CST\BCIT CST\Term 4 CST Full-Time\Test\StuTest\DenisLoadTextBox\obj\Debug\DenisLoadTextBox.csprojResolveAssemblyReference.cache
+C:\Users\stubu_000\Desktop\BCIT CST\BCIT CST\Term 4 CST Full-Time\Test\StuTest\DenisLoadTextBox\obj\Debug\DenisLoadTextBox.Form1.resources
+C:\Users\stubu_000\Desktop\BCIT CST\BCIT CST\Term 4 CST Full-Time\Test\StuTest\DenisLoadTextBox\obj\Debug\DenisLoadTextBox.Form2.resources
+C:\Users\stubu_000\Desktop\BCIT CST\BCIT CST\Term 4 CST Full-Time\Test\StuTest\DenisLoadTextBox\obj\Debug\DenisLoadTextBox.Properties.Resources.resources
+C:\Users\stubu_000\Desktop\BCIT CST\BCIT CST\Term 4 CST Full-Time\Test\StuTest\DenisLoadTextBox\obj\Debug\DenisLoadTextBox.csproj.GenerateResource.Cache

@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace DenisLoadTextBox
 {
+    //Stu Edit
     public partial class Form1 : Form
     {
         Form2 frm;
